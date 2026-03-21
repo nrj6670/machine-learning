@@ -1,0 +1,4 @@
+# ignoring env, .idea, .ipynb_checkpoints directory
+env/
+.idea/
+.ipynb_checkpoints/
